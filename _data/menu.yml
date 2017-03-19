@@ -1,0 +1,11 @@
+data:
+  - title: HermanosDuarte.com 
+    menu_option:
+      - option: Inicio
+        href: index.html
+      - option: Nuestro Equipo
+        href: about.html
+      - option: Arepas
+        href: arepas.html
+      - option: Contáctanos
+        href: contact.html
